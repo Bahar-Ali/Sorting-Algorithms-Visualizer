@@ -1,0 +1,5 @@
+{
+  "name": "SortMaster Visualizer",
+  "description": "An interactive, educational sorting algorithm visualizer designed to help students understand how sorting works through animation.",
+  "requestFramePermissions": []
+}
